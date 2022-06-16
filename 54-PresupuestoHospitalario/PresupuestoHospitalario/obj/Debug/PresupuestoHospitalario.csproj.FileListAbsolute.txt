@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\PresupuestoHospitalario\PresupuestoHospitalario\bin\Debug\PresupuestoHospitalario.exe
+C:\Users\tauro\Desktop\PresupuestoHospitalario\PresupuestoHospitalario\bin\Debug\PresupuestoHospitalario.pdb
+C:\Users\tauro\Desktop\PresupuestoHospitalario\PresupuestoHospitalario\obj\Debug\PresupuestoHospitalario.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\PresupuestoHospitalario\PresupuestoHospitalario\obj\Debug\PresupuestoHospitalario.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\PresupuestoHospitalario\PresupuestoHospitalario\obj\Debug\PresupuestoHospitalario.exe
+C:\Users\tauro\Desktop\PresupuestoHospitalario\PresupuestoHospitalario\obj\Debug\PresupuestoHospitalario.pdb
